@@ -1,1 +1,72 @@
-This library will feature a collection of C# snippets to be tested and Harnessed using LINQPAD
+# 🔍 LINQPad Snippet Library
+
+Modular LINQPad snippets for string manipulation, ASCII logic, and character-level debugging. Built for educators, developers, and curious minds exploring .NET with LINQPad.
+
+---
+
+## ✨ Features
+
+- 🔡 Reverse lowercase and uppercase letters using ASCII logic
+- 🧠 Explore character classes with Unicode-safe reversal
+- 📊 Visualize ASCII mappings with `.Dump()` for instant feedback
+- 🧪 LINQPad test harnesses for each utility
+- 🧰 Easily extendable for digits, symbols, and custom filters
+
+---
+
+## 📁 Included Snippets
+
+| File Name                             | Description                                      |
+|--------------------------------------|--------------------------------------------------|
+| `Core_MagicNumbers_Ascii.linq`       | Explore ASCII values and their mappings          |
+| `Core_UpperCaseAcsiiExplorer.linq`   | Reverse uppercase letters using ASCII logic      |
+| `ReversedLowerCase_Letters.linq`     | Reverse lowercase letters with ASCII filtering   |
+| `ReversedLowerCase_Letters1.linq`    | Alternate lowercase reversal logic               |
+| `ReversedUPPerCase_Letters_ASCII.linq` | Uppercase reversal with enhanced ASCII mapping |
+
+---
+
+## 🚀 Getting Started
+
+1. Open any `.linq` file in LINQPad
+2. Run the query to see live `.Dump()` output
+3. Modify input strings to test different reversal logic
+4. Use the snippets as building blocks for larger utilities or educational demos
+
+---
+
+## 🎓 Educational Value
+
+This library is ideal for:
+
+- Teaching ASCII ranges and character encoding
+- Demonstrating LINQ projections and functional transformations
+- Comparing algorithmic approaches to string reversal
+- Building reusable utilities for debugging and prototyping
+
+---
+
+## 🛠 Future Enhancements
+
+- 🔢 Digit reversal and symbol filters
+- 📋 Toggleable reversal engines (ASCII vs CharClass)
+- 📈 LINQPad dashboard for interactive string analysis
+- 📚 Companion blog posts and video walkthroughs
+
+---
+
+## 🤝 Contributing
+
+Want to add your own LINQPad snippet or suggest improvements?  
+Feel free to fork the repo, submit a pull request, or open an issue.
+
+---
+
+## 📜 License
+
+MIT License — free to use, modify, and share.
+
+---
+
+> Built with clarity, curiosity, and a love for modular code.  
+> — Alex Koranteng
